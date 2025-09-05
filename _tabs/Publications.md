@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fas fa-file
+icon: fa fa-file-text
 order: 3
 ---
 
