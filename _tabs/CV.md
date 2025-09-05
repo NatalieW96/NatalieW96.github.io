@@ -1,11 +1,7 @@
 ---
-title: CV
 icon: fa fa-id-card-o
 order: 2
-layout: page
 ---
-
-# My CV
 
 You can download my CV here:
 
