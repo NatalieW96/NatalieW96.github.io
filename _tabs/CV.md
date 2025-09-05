@@ -1,6 +1,7 @@
 ---
-icon: fa fa-user
+#icon: fa fa-user
 order: 2
+title: CV
 ---
 
 You can download my CV here:

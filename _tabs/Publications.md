@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fa fa-file-text
+#icon: fa fa-file-text
 order: 3
 ---
 

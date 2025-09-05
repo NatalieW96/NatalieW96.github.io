@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-icon: fa fa-users
+#icon: fa fa-users
 order: 5
 ---
 
