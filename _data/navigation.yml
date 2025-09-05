@@ -1,0 +1,30 @@
+- title: About Me
+  icon: fas fa-info-circle
+  url: /_tabs/About%20Me/
+  order: 1
+
+- title: CV
+  icon: fa fa-id-card-o
+  url: /assets/docs/CV.pdf
+  target: _blank
+  order: 2
+
+- title: Publication
+  icon: fa fa-files-o
+  url: /_tabs/Publication/
+  order: 3
+
+- title: Teaching
+  icon: fa fa-graduation-cap
+  url: /_tabs/Teaching/
+  order: 4
+
+- title: Outreach
+  icon: fa fa-users
+  url: /_tabs/Outreach/
+  order: 5
+
+- title: Blog
+  icon: fa fa-align-justify
+  url: /_tabs/Blog/
+  order: 6
