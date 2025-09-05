@@ -19,7 +19,7 @@ title: Natalie Williams # the main title
 tagline: Gravitational Waves Researcher # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  I'm a postdoctoral researcher at the University of Potsdam. My research focuses on gravitational waves and multi-messenger astronomy from binaries containing neutron stars.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -89,7 +89,7 @@ theme_mode: light # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: ./assets/images/me.png
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
