@@ -1,5 +1,7 @@
 ---
+title: CV
 icon: fa fa-id-card-o
 order: 2
+redirect: /assets/docs/my_cv.pdf
+redirect_target: _blank
 ---
-[Open CV PDF](/assets/docs/CV.pdf){:target="_blank"}
