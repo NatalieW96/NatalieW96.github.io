@@ -2,6 +2,10 @@
 title: CV
 icon: fa fa-id-card-o
 order: 2
-url: /assets/docs/CV.pdf
-redirect_target: _blank
+layout: page
 ---
+
+<script>
+  window.open("/assets/docs/CV.pdf", "_blank");
+  window.location.href = "/";  // Optional: redirect the page somewhere else
+</script>
