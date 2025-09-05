@@ -1,5 +1,5 @@
 ---
 # the default layout is 'page'
-icon: fasfa-align-justify
+icon: fa fa-align-justify
 order: 6
 ---

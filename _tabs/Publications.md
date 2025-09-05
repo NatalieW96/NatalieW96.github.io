@@ -1,5 +1,5 @@
 ---
 # the default layout is 'page'
-icon: fas fa-file-text-o
+icon: fa fa-file-text-o
 order: 3
 ---
