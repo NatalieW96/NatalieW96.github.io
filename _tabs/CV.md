@@ -1,5 +1,5 @@
 ---
-icon: fa fa-id-card-o
+icon: fas fa-id-card
 order: 2
 ---
 
